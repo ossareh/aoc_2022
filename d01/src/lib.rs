@@ -1,4 +1,3 @@
-use std::cmp::Ordering;
 use std::str; 
 
 /// Parse list of calories elves are carrying

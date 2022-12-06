@@ -1,7 +1,7 @@
 use clap::Parser;
 use std::path::PathBuf;
 
-use d01_t01::{compute};
+use d01::compute;
 
 #[derive(Parser, Debug)]
 #[command(author, version, about, long_about = None)]
