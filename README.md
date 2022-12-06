@@ -29,9 +29,9 @@ whenever I get near it I really like what I see.
 
 Working through this got me interested in how one would write this using `no_std`. Particularly
 interesting w.r.t. reading the data file. I'd like to tackle this without losing too much of the
-seperation of concerns - I feel like iterators play a part in this perhaps?
+seperation of concerns - I feel like iterators play a part in this perhaps? 
 
-## Summary of things I'd like to readdress:
+## Summary of things I'd like to address:
 
- -[] d01 conversion of bytes to int; bytes are a str
- -[] d02 write a no_std version
+ - [ ] d01 conversion of bytes to int; bytes are a str
+ - [ ] d02 write a no_std version
